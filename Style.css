@@ -1,0 +1,78 @@
+.Color-edit{
+
+    color: blue;
+}
+.section{
+    color: orangered;
+    margin-bottom: 150px;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 66%;
+   
+}
+.link-button{
+    text-decoration: none;
+    background-color: rgb(65, 148, 40);
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+.Father-name{
+    color: brown;
+    background-color: rgb(150, 150, 44);
+    padding: 10px 50px;
+    border-radius: 5px;
+}
+.half-name{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-name img{
+    width: 70%;
+    padding-block: 5%;
+
+}
+.Dream-big{
+    display: flex;
+}
+.ssc-m{
+    width: 20%;
+    color: blue;
+    padding: 20%;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 20px #888888;
+    margin-left: 5%;
+    margin-right: 5%;
+    
+  }
+
+.hsc-m{
+        width: 20%;
+        color: blue;
+        padding: 20%;
+        border: 1px solid;
+        padding: 10px;
+        box-shadow: 5px 20px #888888;
+        margin-left: 5%;
+        margin-right: 5%;
+        
+      }
+
+.honours-m{
+    width: 20%;
+    color: blue;
+    padding: 20%;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 20px #888888;
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+  
